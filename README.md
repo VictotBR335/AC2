@@ -1,1 +1,1 @@
-Essa eh uma pagina HTML bem legal para a AC2 de DevOps.
+Essa eh uma pagina HTML bem bonita para a AC2 de DevOps.
