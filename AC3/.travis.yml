@@ -6,4 +6,4 @@ before_install:
  - python -m pip install --upgrade pip
 
 script:
- - python AC3.py
+ - python AC2/AC3.py
