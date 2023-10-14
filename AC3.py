@@ -1,12 +1,9 @@
 print("------")
-print("Este programa mostra os números de divisão de 1 até o número escolhido")
+print("Este programa mostra os números de divisão de 1 até 100")
 print("------")
-numero = float(input("Digite um número: "))
-print("------")
+numero = 100
 
-for divisor in range(1, int(numero)):  
-    if divisor != 0:
-        resp = numero / divisor
-        print(resp)
-    else:
-        print("Não é possível dividir por zero.")
+for divisor in range(1, 101):  
+    resp = numero / divisor
+    print(f"100 digivido por {divisor} é: {resp:.2f}")
+     
